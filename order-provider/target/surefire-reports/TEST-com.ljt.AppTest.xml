@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.ljt.AppTest" time="0.044" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="D:\IDE\dubbo-order\order-provider\target\test-classes;D:\IDE\dubbo-order\order-provider\target\classes;D:\IDE\apache-maven-3.6.3\mypository\junit\junit\4.11\junit-4.11.jar;D:\IDE\apache-maven-3.6.3\mypository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\IDE\apache-maven-3.6.3\mypository\org\springframework\spring-core\4.3.10.RELEASE\spring-core-4.3.10.RELEASE.jar;D:\IDE\apache-maven-3.6.3\mypository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\IDE\apache-maven-3.6.3\mypository\org\springframework\spring-beans\4.3.10.RELEASE\spring-beans-4.3.10.RELEASE.jar;D:\IDE\apache-maven-3.6.3\mypository\org\springframework\spring-context\4.3.10.RELEASE\spring-context-4.3.10.RELEASE.jar;D:\IDE\apache-maven-3.6.3\mypository\org\springframework\spring-aop\4.3.10.RELEASE\spring-aop-4.3.10.RELEASE.jar;D:\IDE\apache-maven-3.6.3\mypository\org\springframework\spring-expression\4.3.10.RELEASE\spring-expression-4.3.10.RELEASE.jar;D:\IDE\apache-maven-3.6.3\mypository\org\springframework\spring-context-support\4.3.10.RELEASE\spring-context-support-4.3.10.RELEASE.jar;D:\IDE\apache-maven-3.6.3\mypository\org\springframework\spring-jdbc\4.3.10.RELEASE\spring-jdbc-4.3.10.RELEASE.jar;D:\IDE\apache-maven-3.6.3\mypository\org\springframework\spring-orm\4.3.10.RELEASE\spring-orm-4.3.10.RELEASE.jar;D:\IDE\apache-maven-3.6.3\mypository\org\springframework\spring-tx\4.3.10.RELEASE\spring-tx-4.3.10.RELEASE.jar;D:\IDE\apache-maven-3.6.3\mypository\com\alibaba\dubbo\2.5.3\dubbo-2.5.3.jar;D:\IDE\apache-maven-3.6.3\mypository\org\javassist\javassist\3.15.0-GA\javassist-3.15.0-GA.jar;D:\IDE\apache-maven-3.6.3\mypository\org\jboss\netty\netty\3.2.5.Final\netty-3.2.5.Final.jar;D:\IDE\apache-maven-3.6.3\mypository\com\github\sgroschupf\zkclient\0.1\zkclient-0.1.jar;D:\IDE\apache-maven-3.6.3\mypository\org\apache\zookeeper\zookeeper\3.3.3\zookeeper-3.3.3.jar;D:\IDE\apache-maven-3.6.3\mypository\jline\jline\0.9.94\jline-0.9.94.jar;D:\IDE\apache-maven-3.6.3\mypository\log4j\log4j\1.2.14\log4j-1.2.14.jar;D:\IDE\apache-maven-3.6.3\mypository\com\atomikos\transactions-jdbc\3.9.3\transactions-jdbc-3.9.3.jar;D:\IDE\apache-maven-3.6.3\mypository\com\atomikos\transactions-jta\3.9.3\transactions-jta-3.9.3.jar;D:\IDE\apache-maven-3.6.3\mypository\com\atomikos\transactions\3.9.3\transactions-3.9.3.jar;D:\IDE\apache-maven-3.6.3\mypository\com\atomikos\transactions-api\3.9.3\transactions-api-3.9.3.jar;D:\IDE\apache-maven-3.6.3\mypository\com\atomikos\atomikos-util\3.9.3\atomikos-util-3.9.3.jar;D:\IDE\apache-maven-3.6.3\mypository\javax\transaction\jta\1.1\jta-1.1.jar;D:\IDE\apache-maven-3.6.3\mypository\javax\javaee-api\7.0\javaee-api-7.0.jar;D:\IDE\apache-maven-3.6.3\mypository\com\sun\mail\javax.mail\1.5.0\javax.mail-1.5.0.jar;D:\IDE\apache-maven-3.6.3\mypository\javax\activation\activation\1.1\activation-1.1.jar;D:\IDE\apache-maven-3.6.3\mypository\org\mybatis\mybatis\3.4.4\mybatis-3.4.4.jar;D:\IDE\apache-maven-3.6.3\mypository\mysql\mysql-connector-java\5.1.18\mysql-connector-java-5.1.18.jar;D:\IDE\apache-maven-3.6.3\mypository\org\mybatis\mybatis-spring\1.0.1\mybatis-spring-1.0.1.jar;D:\IDE\dubbo-order\order-api\target\order-api-1.0-SNAPSHOT.jar;D:\IDE\apache-maven-3.6.3\mypository\com\ljt\user-api\1.0-SNAPSHOT\user-api-1.0-SNAPSHOT.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="D:\TOOLS\jdk1.8\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\11404\AppData\Local\Temp\surefire1783010036861488308\surefirebooter2522763925065923989.jar C:\Users\11404\AppData\Local\Temp\surefire1783010036861488308 2020-05-13T19-18-15_174-jvmRun1 surefire4230625544243715316tmp surefire_15191910155956557780tmp"/>
+    <property name="surefire.test.class.path" value="D:\IDE\dubbo-order\order-provider\target\test-classes;D:\IDE\dubbo-order\order-provider\target\classes;D:\IDE\apache-maven-3.6.3\mypository\junit\junit\4.11\junit-4.11.jar;D:\IDE\apache-maven-3.6.3\mypository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\IDE\apache-maven-3.6.3\mypository\org\springframework\spring-core\4.3.10.RELEASE\spring-core-4.3.10.RELEASE.jar;D:\IDE\apache-maven-3.6.3\mypository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\IDE\apache-maven-3.6.3\mypository\org\springframework\spring-beans\4.3.10.RELEASE\spring-beans-4.3.10.RELEASE.jar;D:\IDE\apache-maven-3.6.3\mypository\org\springframework\spring-context\4.3.10.RELEASE\spring-context-4.3.10.RELEASE.jar;D:\IDE\apache-maven-3.6.3\mypository\org\springframework\spring-aop\4.3.10.RELEASE\spring-aop-4.3.10.RELEASE.jar;D:\IDE\apache-maven-3.6.3\mypository\org\springframework\spring-expression\4.3.10.RELEASE\spring-expression-4.3.10.RELEASE.jar;D:\IDE\apache-maven-3.6.3\mypository\org\springframework\spring-context-support\4.3.10.RELEASE\spring-context-support-4.3.10.RELEASE.jar;D:\IDE\apache-maven-3.6.3\mypository\org\springframework\spring-jdbc\4.3.10.RELEASE\spring-jdbc-4.3.10.RELEASE.jar;D:\IDE\apache-maven-3.6.3\mypository\org\springframework\spring-orm\4.3.10.RELEASE\spring-orm-4.3.10.RELEASE.jar;D:\IDE\apache-maven-3.6.3\mypository\org\springframework\spring-tx\4.3.10.RELEASE\spring-tx-4.3.10.RELEASE.jar;D:\IDE\apache-maven-3.6.3\mypository\com\alibaba\dubbo\2.5.3\dubbo-2.5.3.jar;D:\IDE\apache-maven-3.6.3\mypository\org\javassist\javassist\3.15.0-GA\javassist-3.15.0-GA.jar;D:\IDE\apache-maven-3.6.3\mypository\org\jboss\netty\netty\3.2.5.Final\netty-3.2.5.Final.jar;D:\IDE\apache-maven-3.6.3\mypository\com\github\sgroschupf\zkclient\0.1\zkclient-0.1.jar;D:\IDE\apache-maven-3.6.3\mypository\org\apache\zookeeper\zookeeper\3.3.3\zookeeper-3.3.3.jar;D:\IDE\apache-maven-3.6.3\mypository\jline\jline\0.9.94\jline-0.9.94.jar;D:\IDE\apache-maven-3.6.3\mypository\log4j\log4j\1.2.14\log4j-1.2.14.jar;D:\IDE\apache-maven-3.6.3\mypository\com\atomikos\transactions-jdbc\3.9.3\transactions-jdbc-3.9.3.jar;D:\IDE\apache-maven-3.6.3\mypository\com\atomikos\transactions-jta\3.9.3\transactions-jta-3.9.3.jar;D:\IDE\apache-maven-3.6.3\mypository\com\atomikos\transactions\3.9.3\transactions-3.9.3.jar;D:\IDE\apache-maven-3.6.3\mypository\com\atomikos\transactions-api\3.9.3\transactions-api-3.9.3.jar;D:\IDE\apache-maven-3.6.3\mypository\com\atomikos\atomikos-util\3.9.3\atomikos-util-3.9.3.jar;D:\IDE\apache-maven-3.6.3\mypository\javax\transaction\jta\1.1\jta-1.1.jar;D:\IDE\apache-maven-3.6.3\mypository\javax\javaee-api\7.0\javaee-api-7.0.jar;D:\IDE\apache-maven-3.6.3\mypository\com\sun\mail\javax.mail\1.5.0\javax.mail-1.5.0.jar;D:\IDE\apache-maven-3.6.3\mypository\javax\activation\activation\1.1\activation-1.1.jar;D:\IDE\apache-maven-3.6.3\mypository\org\mybatis\mybatis\3.4.4\mybatis-3.4.4.jar;D:\IDE\apache-maven-3.6.3\mypository\mysql\mysql-connector-java\5.1.18\mysql-connector-java-5.1.18.jar;D:\IDE\apache-maven-3.6.3\mypository\org\mybatis\mybatis-spring\1.0.1\mybatis-spring-1.0.1.jar;D:\IDE\dubbo-order\order-api\target\order-api-1.0-SNAPSHOT.jar;D:\IDE\apache-maven-3.6.3\mypository\com\ljt\user-api\1.0-SNAPSHOT\user-api-1.0-SNAPSHOT.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\11404"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="D:\TOOLS\jdk1.8\jre"/>
+    <property name="basedir" value="D:\IDE\dubbo-order\order-provider"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\11404\AppData\Local\Temp\surefire1783010036861488308\surefirebooter2522763925065923989.jar"/>
+    <property name="sun.boot.class.path" value="D:\TOOLS\jdk1.8\jre\lib\resources.jar;D:\TOOLS\jdk1.8\jre\lib\rt.jar;D:\TOOLS\jdk1.8\jre\lib\sunrsasign.jar;D:\TOOLS\jdk1.8\jre\lib\jsse.jar;D:\TOOLS\jdk1.8\jre\lib\jce.jar;D:\TOOLS\jdk1.8\jre\lib\charsets.jar;D:\TOOLS\jdk1.8\jre\lib\jfr.jar;D:\TOOLS\jdk1.8\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_152-b16"/>
+    <property name="user.name" value="11404"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="D:\TOOLS\jdk1.8\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="idea.version2020.1" value="true"/>
+    <property name="localRepository" value="D:\IDE\apache-maven-3.6.3\mypository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\11404\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_152"/>
+    <property name="user.dir" value="D:\IDE\dubbo-order\order-provider"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="D:\TOOLS\jdk1.8\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\TOOLS\jdk1.8\bin;D:\IDE\apache-maven-3.6.3\bin;$HADOOP_HOME\bin;D:\TOOLS\mysql\bin;C:\Users\11404\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.152-b16"/>
+    <property name="java.ext.dirs" value="D:\TOOLS\jdk1.8\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.ljt.AppTest" time="0.001"/>
+</testsuite>
